@@ -1,0 +1,7 @@
+"./Src/HASH.o"
+"./Src/LED.o"
+"./Src/UART.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32l4r5zitx.o"
